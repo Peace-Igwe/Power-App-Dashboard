@@ -24,7 +24,7 @@ This Power App was designed for internal teams (e.g., analysts, business users, 
 - Summary panel: Pending requests & FAQs
 - Personalized greeting
 
-![Home](./assets/home-page-Request-Portal.png)
+![Home Page](https://github.com/Peace-Igwe/Power-App-Dashboard/blob/main/Power-app-dashboard/assets/Home-page-Request-Portal.png?raw=true)
 
 ---
 
@@ -33,7 +33,7 @@ This Power App was designed for internal teams (e.g., analysts, business users, 
 - Pre-filled user details
 - Optional file attachments for evidence
 
-![Home](./assets/incident-Page.png)
+![Incident Page](https://github.com/Peace-Igwe/Power-App-Dashboard/blob/main/Power-app-dashboard/assets/Incident-Page.png?raw=true)
 
 ---
 
@@ -41,7 +41,7 @@ This Power App was designed for internal teams (e.g., analysts, business users, 
 - Users can choose dashboard category
 - Input specific data needs or request types
 
-![Home](./assets/Request-portal.png)
+![Request Portal](https://github.com/Peace-Igwe/Power-App-Dashboard/blob/main/Power-app-dashboard/assets/Request-portal.png?raw=true)
 
 ---
 
