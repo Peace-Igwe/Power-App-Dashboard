@@ -24,7 +24,7 @@ This Power App was designed for internal teams (e.g., analysts, business users, 
 - Summary panel: Pending requests & FAQs
 - Personalized greeting
 
-![Home](./Home%20page%20Request%20Portal.png)
+![Home](./assets/home-page-Request-Portal.png)
 
 ---
 
@@ -33,7 +33,7 @@ This Power App was designed for internal teams (e.g., analysts, business users, 
 - Pre-filled user details
 - Optional file attachments for evidence
 
-![Incident Page](./Incident%20Page.png)
+![Home](./assets/incident-Page.png)
 
 ---
 
@@ -41,7 +41,7 @@ This Power App was designed for internal teams (e.g., analysts, business users, 
 - Users can choose dashboard category
 - Input specific data needs or request types
 
-![Request Portal](./Request%20portal.png)
+![Home](./assets/Request-portal.png)
 
 ---
 
